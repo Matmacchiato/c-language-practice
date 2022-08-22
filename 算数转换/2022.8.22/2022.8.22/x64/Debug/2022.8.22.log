@@ -1,0 +1,4 @@
+﻿  test.c
+D:\C语言\c-language-practice\算数转换\2022.8.22\2022.8.22\test.c(148,5): error C2084: 函数“int main()”已有主体
+D:\C语言\c-language-practice\算数转换\2022.8.22\2022.8.22\test.c(106): message : 参见“main”的前一个定义
+D:\C语言\c-language-practice\算数转换\2022.8.22\2022.8.22\test.c(152,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
